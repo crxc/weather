@@ -1,0 +1,35 @@
+{
+  "location": "Washington",
+  "forecasts": [
+    {
+      "time": "Overnight",
+      "temperature": "59°F",
+      "wind": "6 mph W",
+      "forecast": "A chance of rain showers. Cloudy, with a low around 59. West wind around 6 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+    },
+    {
+      "time": "Tuesday",
+      "temperature": "66°F",
+      "wind": "7 to 28 mph W",
+      "forecast": "A chance of rain showers. Mostly cloudy, with a high near 66. West wind 7 to 28 mph, with gusts as high as 47 mph. Chance of precipitation is 30%. New rainfall amounts less than a tenth of an inch possible."
+    },
+    {
+      "time": "Tuesday Night",
+      "temperature": "43°F",
+      "wind": "10 to 21 mph W",
+      "forecast": "A slight chance of rain showers before 8pm. Partly cloudy, with a low around 43. West wind 10 to 21 mph, with gusts as high as 35 mph. Chance of precipitation is 20%."
+    },
+    {
+      "time": "Wednesday",
+      "temperature": "59°F",
+      "wind": "12 to 17 mph W",
+      "forecast": "Mostly sunny, with a high near 59. West wind 12 to 17 mph, with gusts as high as 29 mph."
+    },
+    {
+      "time": "Wednesday Night",
+      "temperature": "40°F",
+      "wind": "6 to 15 mph NW",
+      "forecast": "Mostly clear, with a low around 40. Northwest wind 6 to 15 mph, with gusts as high as 25 mph."
+    }
+  ]
+}
